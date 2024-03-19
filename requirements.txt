@@ -1,0 +1,4 @@
+streamlit
+scipy
+numpy  # If your project also depends on numpy
+pandas  # And any other dependencies you have
